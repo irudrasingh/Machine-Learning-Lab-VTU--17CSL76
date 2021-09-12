@@ -1,4 +1,4 @@
-# Machine Learning lab-17CS771 
+# Machine Learning lab-17CSL76 
 ## _Visvesvaraya Technological University , VTU_
 
 
